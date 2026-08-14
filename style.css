@@ -1,0 +1,17 @@
+/*je suis stone*/
+ h1 {
+    color:rgba(19, 19, 221, 0.747);
+}
+.premier{
+    color:rgb(30, 95, 30);
+ 
+}
+#deuxieme{
+    color:red;
+}
+.titre{
+    color:purple;
+}
+body{
+    color: green;
+}
